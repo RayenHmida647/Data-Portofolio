@@ -1,7 +1,6 @@
-#Rayen HMIDA
-```
+# Hi, I'm Rayen Hmida 👋
 
-### `> Étudiant Ingénieur · Data & Business Analysis`
+### Étudiant Ingénieur · Data & Business Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rayen--hmida-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rayen-hmida)
 [![GitHub](https://img.shields.io/badge/GitHub-RayenHmida647-181717?style=flat-square&logo=github)](https://github.com/RayenHmida647)
